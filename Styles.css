@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #FFF4D6; 
+    color: #06375E;
+    display: flex;
+
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.centered {
+    text-align: center
+}
+
+footer {
+    background-color: #FFF4D6;
+    color: #E96F8E;
+    padding: 50px;
+    margin: 10px;
+}
+.centered {
+    text-align:center;
+}
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+.mea-culpa-regular {
+  font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
